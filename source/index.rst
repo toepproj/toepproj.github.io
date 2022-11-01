@@ -21,7 +21,7 @@ Facilitating the genetic method in the study of mathematics
    teach, then would the dust of time and the wear of long use fall away, and
    they would be reborn to us as creatures full of life.
 
-   -- `Otto Toeplitz`_, 1927
+   -- `Otto Toeplitz`_, 1927_
 
 
 Digitizing historical steps
@@ -143,6 +143,7 @@ valuable resource for math students by 2027.
 
 
 .. _Otto Toeplitz: https://en.wikipedia.org/wiki/Otto_Toeplitz
+.. _1927: https://www.digizeitschriften.de/download/pdf/37721857X_0036/log7.pdf
 .. _Proofscape: https://docs.proofscape.org/
 .. _SymPy: https://sympy.org
 .. _Lean: https://leanprover-community.github.io/
