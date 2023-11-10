@@ -13,7 +13,7 @@ Facilitating the genetic method in the study of mathematics
 .. epigraph::
 
    I would call this the *genetic method*. I...said to myself: all these
-   components of the infinitessimal calculus...are taught today as part
+   components of the infinitesimal calculus...are taught today as part
    of a canonical syllabus, and nowhere is the question asked: Why so? How did
    one arrive at just these results? Each of these developments must have arisen
    from some exciting investigation, some impassioned search, at the time it was
