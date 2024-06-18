@@ -57,4 +57,4 @@ place for translations of the "prose sections" of mathematical papers.
 .. _gh.toepproj.en: https://github.com/toepproj/en
 
 .. _MacTutor: https://www-history.mcs.st-and.ac.uk/
-.. _comparisons: https://docs.proofscape.org/lang/modules/nodes.html#cf-references
+.. _comparisons: https://docs.proofscape.org/en/stable/ref/deducs/nodes.html#cf-references
