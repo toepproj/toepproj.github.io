@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'The Toeplitz Project'
-copyright = '2022, Toeplitz Project contributors'
+copyright = '2024, Toeplitz Project contributors'
 author = 'Toeplitz Project contributors'
 
 # -- General configuration ---------------------------------------------------
